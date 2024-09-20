@@ -6,6 +6,6 @@ We chose Github to build, deploy and share our project ! Selenite is an independ
 
 WIP
 
-## Our webssite 🖥️
+## Our website 🖥️
 
 WIP
