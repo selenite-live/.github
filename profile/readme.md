@@ -26,8 +26,6 @@ Selenite is a space shooter set on the Moon. Players must pilot their spaceship 
 - **GitHub Actions** – CI/CD for automated builds and deployments
 - **Git LFS** – Handling large assets efficiently
 
-Play the latest version: [download.selenite.live](https://download.selenite.live/)
-
 ## Our Website 🖥️
 
 To accompany the game, we built a website providing community features, game information, and online services.
@@ -42,8 +40,6 @@ To accompany the game, we built a website providing community features, game inf
 ### Deployment
 - **Docker & Coolify** – Simplified deployment management
 - **GitHub CI/CD** – Automated updates
-
-Check it out: [selenite.live](https://selenite.live)
 
 ---
 
